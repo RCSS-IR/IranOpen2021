@@ -1,0 +1,49 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+RoboCIn: init ok.  unum: 6 side: l
+RoboCIn 6:  KickTable created.
+RoboCIn 6: [-1, 0] set synch see mode.
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+RoboCIn 6: finished.

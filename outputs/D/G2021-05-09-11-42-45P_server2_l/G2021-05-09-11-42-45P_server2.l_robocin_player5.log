@@ -1,0 +1,60 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+RoboCIn: init ok.  unum: 4 side: l
+RoboCIn 4:  KickTable created.
+RoboCIn 4: [-1, 0] set synch see mode.
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+RoboCIn 4: [524, 0]  WARNING. no turn_neck.
+RoboCIn 4: [525, 0]  WARNING. no turn_neck.
+RoboCIn 4: [1824, 0]  WARNING. no turn_neck.
+RoboCIn 4: [1825, 0]  WARNING. no turn_neck.
+RoboCIn 4: [1827, 0]  WARNING. no turn_neck.
+RoboCIn 4: [1828, 0]  WARNING. no turn_neck.
+RoboCIn 4: [1829, 0]  WARNING. no turn_neck.
+RoboCIn 4: [1830, 0]  WARNING. no turn_neck.
+RoboCIn 4: [1831, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2174, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2175, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2177, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2178, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2179, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2180, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2713, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2714, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2715, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2716, 0]  WARNING. no turn_neck.
+RoboCIn 4: [2717, 0]  WARNING. no turn_neck.
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+RoboCIn 4: [4237, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4245, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4246, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4247, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4380, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4382, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4383, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4384, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4385, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4386, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4388, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4389, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4390, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4391, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4394, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4395, 0]  WARNING. no turn_neck.
+RoboCIn 4: [4396, 0]  WARNING. no turn_neck.
+RoboCIn 4: finished.

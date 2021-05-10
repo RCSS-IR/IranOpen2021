@@ -1,0 +1,67 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+RoboCIn coach: [-1, 0] recv (ok eye on)
+RoboCIn coach: [0, 0] send team_graphic 32 tiles
+RoboCIn coach: [0, 1] send team_graphic 32 tiles
+RoboCIn coach: [0, 2] send team_graphic 32 tiles
+RoboCIn coach: [0, 3] send team_graphic 32 tiles
+RoboCIn coach: [0, 4] send team_graphic 10 tiles
+id speed step inc  power  stam  karea
+ 0 1.000   6  45.0 100.0  55.0  1.085
+ 1 0.896   5  41.2 100.0  58.8  1.130
+ 2 0.837   6  51.8 100.0  48.2  1.047
+ 3 0.900   6  48.9 100.0  51.1  1.112
+ 4 0.922   5  45.7 100.0  54.3  1.163
+ 5 0.935   5  41.0 100.0  59.0  1.093
+ 6 0.870   5  44.8 100.0  55.2  1.172
+ 7 0.836   5  47.8 100.0  52.2  1.013
+ 8 0.841   5  47.2 100.0  52.8  1.098
+ 9 0.801   6  47.1 100.0  52.9  1.134
+ 10 0.837   4  45.5 100.0  54.5  1.175
+ 11 0.844   4  41.0 100.0  59.0  1.124
+ 12 0.783   6  51.7 100.0  48.3  1.059
+ 13 0.843   5  45.0 100.0  55.0  1.135
+ 14 0.867   7  51.8 100.0  48.2  1.076
+ 15 0.794   6  50.8 100.0  49.2  1.141
+ 16 0.957   6  47.6 100.0  52.4  1.184
+ 17 0.847   5  49.0 100.0  51.0  1.018
+RoboCIn coach:  teammate 11 does not exist. skip first substitution.
+RoboCIn coach:  teammate 10 does not exist. skip first substitution.
+RoboCIn coach:  teammate 9 does not exist. skip first substitution.
+RoboCIn coach:  teammate 8 does not exist. skip first substitution.
+RoboCIn coach:  teammate 7 does not exist. skip first substitution.
+RoboCIn coach:  teammate 6 does not exist. skip first substitution.
+RoboCIn coach:  teammate 5 does not exist. skip first substitution.
+RoboCIn coach:  teammate 4 does not exist. skip first substitution.
+RoboCIn coach:  teammate 3 does not exist. skip first substitution.
+RoboCIn coach:  teammate 2 does not exist. skip first substitution.
+RoboCIn coach: change player 1 to type 0
+[6, 0] RoboCIn Coach: determined opponent 7 type = 11
+[7, 0] RoboCIn Coach: determined opponent 2 type = 5
+[11, 0] RoboCIn Coach: determined opponent 11 type = 16
+[15, 0] RoboCIn Coach: determined opponent 5 type = 10
+[23, 0] RoboCIn Coach: determined opponent 9 type = 3
+[25, 0] RoboCIn Coach: determined opponent 4 type = 14
+RoboCIn coach: [41, 0] sent freeform (player_types (1 -1)(2 5)(3 -1)(4 14)(5 10)(6 -1)(7 11)(8 -1)(9 3)(10 -1)(11 16))
+[52, 0] RoboCIn Coach: determined opponent 3 type = 4
+[52, 0] RoboCIn Coach: determined opponent 10 type = 1
+RoboCIn coach: [52, 0] sent freeform (player_types (1 -1)(2 5)(3 4)(4 14)(5 10)(6 -1)(7 11)(8 -1)(9 3)(10 1)(11 16))
+[87, 0] RoboCIn Coach: determined opponent 6 type = 6
+RoboCIn coach: [369, 0] sent freeform (player_types (1 -1)(2 5)(3 4)(4 14)(5 10)(6 6)(7 11)(8 -1)(9 3)(10 1)(11 16))
+[578, 0] RoboCIn Coach: determined opponent 1 type = 0
+RoboCIn coach: [767, 0] sent freeform (player_types (1 0)(2 5)(3 4)(4 14)(5 10)(6 6)(7 11)(8 -1)(9 3)(10 1)(11 16))
+[1104, 0] RoboCIn Coach: determined opponent 8 type = 17
+RoboCIn coach: [1528, 0] sent freeform (player_types (1 0)(2 5)(3 4)(4 14)(5 10)(6 6)(7 11)(8 17)(9 3)(10 1)(11 16))
+[5587, 0] RoboCIn Coach: determined opponent 9 type = 7
+RoboCIn coach: [5587, 0] sent freeform (player_types (1 0)(2 5)(3 4)(4 14)(5 10)(6 6)(7 11)(8 17)(9 7)(10 1)(11 16))
+RoboCIn coach: change player 8 to type 16
+RoboCIn coach: finished.

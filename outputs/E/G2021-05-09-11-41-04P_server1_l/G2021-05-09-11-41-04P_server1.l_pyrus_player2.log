@@ -1,0 +1,20 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+PYRUS: init ok.  unum: 2 side: l
+PYRUS 2:  KickTable created.
+PYRUS 2: [-1, 0] set synch see mode.
+Read Setting: ./data/settings/Other.json
+Circle2D::intersection() illegal line.
+Circle2D::intersection() illegal line.
+Circle2D::intersection() illegal line.
+Circle2D::intersection() illegal line.
+PYRUS 2: finished.

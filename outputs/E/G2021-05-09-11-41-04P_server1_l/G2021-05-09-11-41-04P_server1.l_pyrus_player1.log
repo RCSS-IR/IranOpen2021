@@ -1,0 +1,17 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+PYRUS: init ok.  unum: 1 side: l
+PYRUS 1:  KickTable created.
+PYRUS 1: [-1, 0] set synch see mode.
+Read Setting: ./data/settings/Other.json
+layerSize: 3
+PYRUS 1: finished.

@@ -1,0 +1,51 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+RoboCIn: init ok.  unum: 2 side: l
+RoboCIn 2:  KickTable created.
+RoboCIn 2: [-1, 0] set synch see mode.
+RoboCIn 2: [1818, 0]  WARNING. no turn_neck.
+RoboCIn 2: [1819, 0]  WARNING. no turn_neck.
+RoboCIn 2: [1820, 0]  WARNING. no turn_neck.
+RoboCIn 2: [1821, 0]  WARNING. no turn_neck.
+RoboCIn 2: [1823, 0]  WARNING. no turn_neck.
+RoboCIn 2: [1824, 0]  WARNING. no turn_neck.
+RoboCIn 2: [1829, 0]  WARNING. no turn_neck.
+RoboCIn 2: [1830, 0]  WARNING. no turn_neck.
+RoboCIn 2: [1831, 0]  WARNING. no turn_neck.
+RoboCIn 2: [2179, 0] lost kick? at [2179, 0] sense=2 internal=3
+RoboCIn 2: [2184, 0]  WARNING. no turn_neck.
+RoboCIn 2: [2713, 0]  WARNING. no turn_neck.
+RoboCIn 2: [2714, 0]  WARNING. no turn_neck.
+RoboCIn 2: [2715, 0]  WARNING. no turn_neck.
+RoboCIn 2: [2716, 0]  WARNING. no turn_neck.
+RoboCIn 2: [2717, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4237, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4238, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4239, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4240, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4241, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4242, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4243, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4245, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4246, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4247, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4248, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4249, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4250, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4251, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4252, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4253, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4380, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4381, 0]  WARNING. no turn_neck.
+RoboCIn 2: [4389, 0]  WARNING. no turn_neck.
+RoboCIn 2: [5503, 0]  WARNING. no turn_neck.
+RoboCIn 2: finished.

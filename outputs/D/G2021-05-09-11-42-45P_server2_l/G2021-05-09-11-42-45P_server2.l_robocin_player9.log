@@ -1,0 +1,20 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+RoboCIn: init ok.  unum: 8 side: l
+RoboCIn 8:  KickTable created.
+RoboCIn 8: [-1, 0] set synch see mode.
+RoboCIn 8: [2055, 0] lost dash? at [2055, 0] sense=1406 internal=1407
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+voronoi_diagram_original.cpp:296:Unexpected reach. no triangle for edge
+RoboCIn 8: finished.

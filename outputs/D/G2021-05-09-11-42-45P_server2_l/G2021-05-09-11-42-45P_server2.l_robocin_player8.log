@@ -1,0 +1,16 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+RoboCIn: init ok.  unum: 7 side: l
+RoboCIn 7:  KickTable created.
+RoboCIn 7: [-1, 0] set synch see mode.
+RoboCIn 7: [3835, 0] lost dash? at [3835, 0] sense=2665 internal=2666
+RoboCIn 7: finished.

@@ -1,0 +1,64 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+coach: ***WARNING*** detected unsupported options: -P 6002 
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+PYRUS coach: [-1, 0] recv (ok eye on)
+PYRUS coach: [0, 0] send team_graphic 32 tiles
+PYRUS coach: [0, 1] send team_graphic 32 tiles
+PYRUS coach: [0, 2] send team_graphic 32 tiles
+PYRUS coach: [0, 3] send team_graphic 32 tiles
+PYRUS coach: [0, 4] send team_graphic 8 tiles
+PYRUS coach: change player 1 to type 0
+PYRUS coach: change player 9 to type 11
+PYRUS coach: change player 2 to type 5
+PYRUS coach: change player 11 to type 16
+PYRUS coach: change player 5 to type 4
+PYRUS coach: change player 10 to type 17
+PYRUS coach: change player 3 to type 7
+PYRUS coach: change player 4 to type 14
+PYRUS coach: change player 7 to type 2
+PYRUS coach: change player 8 to type 15
+PYRUS coach: change player 6 to type 10
+id speed step inc  power  stam  karea
+ 0 1.000   6  45.0 100.0  55.0  1.085
+ 1 0.756   5  47.4 100.0  52.6  1.157
+ 2 0.888   6  45.7 100.0  54.3  1.064
+ 3 0.813   6  50.0 100.0  50.0  1.124
+ 4 0.956   7  49.8 100.0  50.2  1.016
+ 5 1.004   6  47.4 100.0  52.6  1.041
+ 6 0.757   4  44.4 100.0  55.6  1.154
+ 7 0.945   4  41.0 100.0  59.0  1.161
+ 8 0.842   7  48.6 100.0  51.4  1.176
+ 9 0.765   6  49.7 100.0  50.3  1.142
+ 10 0.857   5  47.8 100.0  52.2  1.013
+ 11 1.015   6  43.5 100.0  56.5  1.147
+ 12 0.790   5  46.4 100.0  53.6  1.173
+ 13 0.754   4  46.1 100.0  53.9  1.021
+ 14 0.883   6  46.0 100.0  54.0  1.100
+ 15 0.893   6  44.5 100.0  55.5  1.161
+ 16 0.973   7  45.3 100.0  54.7  0.993
+ 17 0.958   5  42.3 100.0  57.7  0.996
+[98, 0] PYRUS Coach: determined opponent 11 type = 11
+[109, 0] PYRUS Coach: determined opponent 4 type = 14
+[109, 0] PYRUS Coach: determined opponent 7 type = 15
+[109, 0] PYRUS Coach: determined opponent 10 type = 17
+[110, 0] PYRUS Coach: determined opponent 5 type = 2
+[123, 0] PYRUS Coach: determined opponent 9 type = 4
+[148, 0] PYRUS Coach: determined opponent 2 type = 5
+[148, 0] PYRUS Coach: determined opponent 3 type = 16
+[153, 0] PYRUS Coach: determined opponent 6 type = 7
+[173, 0] PYRUS Coach: determined opponent 1 type = 0
+[173, 0] PYRUS Coach: determined opponent 8 type = 10
+PYRUS coach: [221, 0] sent freeform (player_types (1 0)(2 5)(3 16)(4 14)(5 2)(6 7)(7 15)(8 10)(9 4)(10 17)(11 11))
+PYRUS coach: change player 5 to type 8
+PYRUS coach: change player 7 to type 3
+PYRUS coach: change player 5 to type 12
+PYRUS coach: finished.

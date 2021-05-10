@@ -1,0 +1,31 @@
+******************************************************************
+ librcsc 4.1.0
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+RoboCIn: init ok.  unum: 5 side: l
+RoboCIn 5:  KickTable created.
+RoboCIn 5: [-1, 0] set synch see mode.
+RoboCIn 5: [525, 0]  WARNING. no turn_neck.
+RoboCIn 5: [526, 0]  WARNING. no turn_neck.
+RoboCIn 5: [527, 0]  WARNING. no turn_neck.
+RoboCIn 5: [1830, 0]  WARNING. no turn_neck.
+RoboCIn 5: [1831, 0]  WARNING. no turn_neck.
+RoboCIn 5: [2713, 0]  WARNING. no turn_neck.
+RoboCIn 5: [2714, 0]  WARNING. no turn_neck.
+RoboCIn 5: [2715, 0]  WARNING. no turn_neck.
+RoboCIn 5: [2716, 0]  WARNING. no turn_neck.
+RoboCIn 5: [2717, 0]  WARNING. no turn_neck.
+RoboCIn 5: [4390, 0]  WARNING. no turn_neck.
+RoboCIn 5: [4391, 0]  WARNING. no turn_neck.
+RoboCIn 5: [4392, 0]  WARNING. no turn_neck.
+RoboCIn 5: [4393, 0]  WARNING. no turn_neck.
+RoboCIn 5: [4394, 0]  WARNING. no turn_neck.
+RoboCIn 5: [4395, 0]  WARNING. no turn_neck.
+RoboCIn 5: finished.
